@@ -1,4 +1,4 @@
-function [y t] = pimp_my_ct_conv (f1, f2, TDOM, Ts, e)
+function [y t] = ct_conv_perso(f1, f2, TDOM, Ts, e)
   % Dr. Tony Richardson
   % University of Evansville
   t = [TDOM(1):Ts:TDOM(2)];
