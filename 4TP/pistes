@@ -1,0 +1,11 @@
+le premier spectre représente un porte de largeur 1 sans le décalage qui a été appliqué au signal
+
+sur le second spectre on peut obesever 2 pics qui correspondent aux extremums du sinus entre -pi et pi 
+
+3?????
+
+4 sur ce spectre on retrouvre les 2 pics qui étaient présents pour le sinus ce qui est normal puisque la fonction carré est construite à l'aide de la fnction sinus
+ 
+5 ici le spectre correspond à une approximation du signal puisque se dernier n'est pas périodique, donc contrairement aux signaux précendants on retrouve plusieurs dirac tout le long du spectre sans motif de répétition
+
+6 ici le spectre semble symetrique par rapport à l'axe des ordonnés, on peut donc penser que le signal qui lui correspond l'est aussi, on aurait donc une fonction paire
