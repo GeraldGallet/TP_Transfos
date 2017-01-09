@@ -22,7 +22,7 @@ function[n] = exo_11() # Exo I/ 1)
   pause(3);
   hold on;
   plot(t, real(y), 'r');
-  
+  legend("Approximation", "Avec Laplace");
   disp("Les poles sont : ");
   P
 end
